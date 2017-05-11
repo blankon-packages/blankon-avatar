@@ -1,3 +1,9 @@
+blankon-avatar (1.16) uluwatu; urgency=medium
+
+  * Rebuild for uluwatu
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Thu, 11 May 2017 22:55:59 +0800
+
 blankon-avatar (1.15) tambora; urgency=medium
 
   * enabled hotkey
